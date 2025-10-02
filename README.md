@@ -43,7 +43,10 @@ JWT_SECRET=your_jwt_secret
 Run backend:
 npm run dev
 
-Frontend
+
+```
+### Frontend
+
 cd frontend
 npm install
 npm start
